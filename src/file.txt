@@ -1,0 +1,9 @@
+using appwrite ->
+Appwrite is an open-source backend-as-a-service (BaaS) platform designed to help developers build secure and scalable applications
+ It provides a set of pre-built backend APIs and tools, eliminating the need to write extensive backend code. 
+With Appwrite, you can focus more on building your app's frontend while relying on its backend services for tasks like authentication,
+ database management, storage, and more.
+
+
+ // for logout purpose ->
+ used deleteSession functionality
